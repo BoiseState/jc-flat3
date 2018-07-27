@@ -5,4 +5,8 @@
   <target name="donothing">
       <echo message="This does nothing"/>
   </target>
+
+  <target name="test">
+      <echo message="Empty test target"/>
+  </target>
 </project>
