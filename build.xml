@@ -1,0 +1,8 @@
+<project name="Fake" default="donothing" basedir=".">
+  <description>
+    simple example build file
+  </description>
+  <target name="donothing">
+      <echo message="This does nothing"/>
+  </target>
+</project>
